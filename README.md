@@ -37,14 +37,6 @@ php -S 0.0.0.0:8080
 ## ServiTec
 ![servitec](/assets/servitec.png)
 
-## Endpoint2
-![elementos](/assets/Elementos.png)
-
-# More Information
-
-![HTML Labels](/assets/HTMLLabel.png)
-![Css Labels](/assets/CSSLabel.png)
-
 
 # License
 [Apache License 2.0](https://github.com/YaelGF/ServiTec/blob/main/LICENSE)
